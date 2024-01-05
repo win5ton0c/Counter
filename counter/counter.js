@@ -1,20 +1,4 @@
 
-/*
-let increase = 0;
-let decrease = 0;
-let value;
-
-document.getElementById('addBtn').onclick = function(){
-    increase++;
-    document.getElementById('mySpan').textContent = `${increase}`;
-}
-
-document.getElementById('subtractBtn').onclick = function(){
-    decrease--;
-    document.getElementById('mySpan').textContent = `${decrease}`;
-}
-
-*/
 
 const decreaseBtn = document.getElementById('decreaseBtn');
 const resetBtn = document.getElementById('resetBtn');
